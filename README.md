@@ -24,4 +24,4 @@ Then, after you have installed the requirements and ensured that it runs (by exe
 you can compile the program by running `go build -o nameyouwant clipper.go`.
 
 # WARNING
-I, Ayden Fleming, am not responsible for any misuse or damage derived from the use of this open-source software. Users are advised to review the code and use it responsibly, ethically, and within the bounds of the law. By downloading, cloning, or using this software, you agree that you are solely responsible for any consequences that may arise from its use. Always obtain proper authorization before accessing systems or data that do not belong to you.
+*I, Ayden Fleming, am not responsible for any misuse or damage derived from the use of this open-source software. Users are advised to review the code and use it responsibly, ethically, and within the bounds of the law. By downloading, cloning, or using this software, you agree that you are solely responsible for any consequences that may arise from its use. Always obtain proper authorization before accessing systems or data that do not belong to you.*
